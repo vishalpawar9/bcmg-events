@@ -11,5 +11,4 @@ public class BcmgEventsApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(BcmgEventsApplication.class, args);
 	}
-
 }
